@@ -1,0 +1,11 @@
+nb=int(input())
+ams=0
+temp=nb
+while(temp>0):
+  dg=temp%10
+  ams+=dg**3
+  temp//=10
+if(nb==ams):
+  print("yes")
+else:
+  print("no")
