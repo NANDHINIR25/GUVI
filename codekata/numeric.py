@@ -1,5 +1,5 @@
 ip=input()
 if(ip.isnumeric()):
-  print("yes")
+  print("Yes")
 else:
-  print("no")
+  print("No")
