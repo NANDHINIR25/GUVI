@@ -1,0 +1,5 @@
+ip1,ip2=map(int,input().split())
+ip3,ip4=map(int,input().split())
+a=abs(ip1-ip3)
+b=abs(ip2-ip4)
+print(a,b)
