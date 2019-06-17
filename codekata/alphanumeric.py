@@ -7,7 +7,7 @@ for i in ip1:
   if(i.isalpha()):
     alpha=True
 if(dig and alpha):
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
     
