@@ -1,2 +1,2 @@
-b,c=input().split()
-print(b+c)
+ip1,ip2=input().split()
+print(ip1+ip2)
