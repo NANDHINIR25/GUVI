@@ -1,0 +1,5 @@
+N=int(input())
+array=input().split()
+x=max(array)
+y=min(array)
+print(y,x)
