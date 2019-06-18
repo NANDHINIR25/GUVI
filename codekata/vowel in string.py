@@ -1,6 +1,6 @@
-s=input()
-for i in range(0,len(s)):
-    if s[i]=='a' or s[i]=='e' or s[i]=='i' or s[i]=='o' or s[i]=='u' or s[i]=='A' or s[i]=='E' or s[i]=='I' or s[i]=='O'or s[i]=='U':
+s1=input()
+for i in range(0,len(s1)):
+    if s1[i]=='a' or s1[i]=='e' or s1[i]=='i' or s1[i]=='o' or s1[i]=='u' or s1[i]=='A' or s1[i]=='E' or s1[i]=='I' or s1[i]=='O'or s1[i]=='U':
        
            print("yes")
            break;
