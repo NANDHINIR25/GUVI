@@ -1,3 +1,3 @@
-temp=int(input())
-kelvin=temp+273
+celsius=int(input())
+kelvin=celsius+273
 print(kelvin)
