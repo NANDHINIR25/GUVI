@@ -5,4 +5,4 @@ if len(ip)%2==0:
 else:
     ip[int(len(ip)/2)] ='*'
 for i in range(0,len(ip)):
-print(ip[i],end='')
+    print(ip[i],end='')
