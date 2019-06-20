@@ -1,0 +1,5 @@
+ip1,ip2=input().split()
+x=ip1.title()
+y=ip2.title()
+print(x,end=' ')
+print(y)
