@@ -5,4 +5,4 @@ while(l<=n1 and l<=n2):
     hcf=l
     lcm=(n1*n2)/hcf
   l=l+1
-print(lcm)       
+print(int(lcm))       
