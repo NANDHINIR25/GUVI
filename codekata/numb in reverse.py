@@ -1,2 +1,2 @@
-num=(input())
-print(num[::-1])
+ip1=(input())
+print(ip1`[::-1])
