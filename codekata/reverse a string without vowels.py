@@ -1,3 +1,4 @@
+num=int(input())
 ip1=input()
 ip2=['a','e','i','o','u']
 for x in ip2:
