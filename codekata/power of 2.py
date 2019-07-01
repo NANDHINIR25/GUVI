@@ -1,5 +1,5 @@
-x1=int(input())
-if(x1 & x1-1):
+ip1=int(input())
+if(ip1 & ip1-1):
   print("no")
 else:
     print("yes")
