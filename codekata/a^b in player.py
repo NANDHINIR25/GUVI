@@ -1,2 +1,2 @@
-ip1,ip2=map(int,input().split())
-print(ip1**ip2)
+ip11,ip22=map(int,input().split())
+print(ip11**ip22)
