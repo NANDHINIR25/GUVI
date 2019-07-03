@@ -1,0 +1,26 @@
+ip1=input().split('-')
+if(ip1[1]=='01'):
+   print("January")
+elif(ip1[1]=='02'):
+   print("Feburary")
+elif(ip1[1]=='03'):
+   print("March")
+elif(ip1[1]=='04'):
+   print("April")
+elif(ip1[1]=='05'):
+   print("May")
+elif(ip1[1]=='06'):
+   print("June")
+elif(ip1[1]=='07'):
+   print("July")
+elif(ip1[1]=='08'):
+   print("August")
+elif(ip1[1]=='09'):
+   print("September")
+elif(ip1[1]=='10'):
+   print("October")
+elif(ip1[1]=='11'):
+   print("November")
+elif(ip1[1]=='12'):
+   print("December")
+  
