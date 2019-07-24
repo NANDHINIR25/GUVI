@@ -6,6 +6,6 @@ for i in range(0,len(li1)):
   if(li1[i]==li[i]):
     count=1
 if(count==1):
-  print("yes")
+  print("YES")
 else:
-  print("no")
+  print("NO")
